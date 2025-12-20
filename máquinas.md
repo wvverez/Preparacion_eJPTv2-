@@ -19,25 +19,25 @@
 | Find me | Principiante   | https://thehackerslabs.com/find-me/       | Activa | Jenkins, Crunch, FTP, revshell      | Linux   | No  |
 | Decryptor | Principiante   | https://thehackerslabs.com/decryptor/   | Activa   | Brainfuck, FTP, KeePass      | Linux   | No  |
 | Goiko | Principiante   | https://thehackerslabs.com/goiko/   | Activa  | SMB, John (id_rsa), SQL     | Linux   | No  |
-| 15 | Elemento 15   | Backend   | Inactivo | Baja      | Usuario E   | 2025-01-15  |
-| 16 | Elemento 16   | API       | Activo   | Alta      | Usuario A   | 2025-01-16  |
-| 17 | Elemento 17   | API       | Activo   | Media     | Usuario B   | 2025-01-17  |
-| 18 | Elemento 18   | API       | Inactivo | Baja      | Usuario C   | 2025-01-18  |
-| 19 | Elemento 19   | Seguridad | Activo   | Alta      | Usuario D   | 2025-01-19  |
-| 20 | Elemento 20   | Seguridad | Activo   | Media     | Usuario E   | 2025-01-20  |
-| 21 | Elemento 21   | Seguridad | Inactivo | Baja      | Usuario A   | 2025-01-21  |
-| 22 | Elemento 22   | Testing   | Activo   | Alta      | Usuario B   | 2025-01-22  |
-| 23 | Elemento 23   | Testing   | Activo   | Media     | Usuario C   | 2025-01-23  |
-| 24 | Elemento 24   | Testing   | Inactivo | Baja      | Usuario D   | 2025-01-24  |
-| 25 | Elemento 25   | DevOps    | Activo   | Alta      | Usuario E   | 2025-01-25  |
-| 26 | Elemento 26   | DevOps    | Activo   | Media     | Usuario A   | 2025-01-26  |
-| 27 | Elemento 27   | DevOps    | Inactivo | Baja      | Usuario B   | 2025-01-27  |
-| 28 | Elemento 28   | Docs      | Activo   | Alta      | Usuario C   | 2025-01-28  |
-| 29 | Elemento 29   | Docs      | Activo   | Media     | Usuario D   | 2025-01-29  |
-| 30 | Elemento 30   | Docs      | Inactivo | Baja      | Usuario E   | 2025-01-30  |
-| 31 | Elemento 31   | Extra     | Activo   | Alta      | Usuario A   | 2025-01-31  |
-| 32 | Elemento 32   | Extra     | Activo   | Media     | Usuario B   | 2025-02-01  |
-| 33 | Elemento 33   | Extra     | Inactivo | Baja      | Usuario C   | 2025-02-02  |
+| Cocido Andaluz | Principiante   |  https://thehackerslabs.com/cocido-andaluz/  | Activa | Webshell  | Windows   | No  |
+| Ensalá Papas | Principiante   | https://thehackerslabs.com/ensala-papas/       | Activa  | Invoke- PowershellTcp , Powershell      | Windows   | No  |
+| Espeto malagueño | Principiante   | https://thehackerslabs.com/espeto-malaqueno/       | Activa   | Windows exploit (MS16- 098)     | Windows   | No  |
+| Accouting | Principiante   | https://thehackerslabs.com/accounting/       | Activa | SMB , SQL, Revershells      | Windows   | No |
+| Papaya | Principiante   | https://thehackerslabs.com/papaya/ | Activa   | ElkArte, Revshell, Johntheripper     | Linux   | No  |
+| Paella | Principiante   | https://thehackerslabs.com/paella/ | Activa   | Webmin, LinPEAS, capabilities     | Linux   | No  |
+| Templo | Principiante   | https://thehackerslabs.com/templo/ | Activa | LFI, exploit lxd      | Linux  | No  |
+| Avengers | Principiante   | https://thehackerslabs.com/avengers/   | Activa   | FTP, base64, SQL      | Linux   | No  |
+| Statue | Principiante   | https://thehackerslabs.com/statue/   | Activa   | Revshell, Pluck     | Linux  | No  |
+| Can you hack me? | Principiante   | https://thehackerslabs.com/canyouhackme/	   | Activa | Escalada con docker      | Linux   | No  |
+| TickTackRoot | Principiante   | https://thehackerslabs.com/ticktackroot/	    | Activa  | SSH (hydra), FTP, SUID     | Linux  | No  |
+| TheFirstAvenger | Principiante   | https://thehackerslabs.com/thefirstavenger/	    | Activa   | Wordpress, Metasploit, Revshell, MySQL, PortForwarding     | Linux   | No  |
+| CryptoLabyrinth | Principiante   | https://thehackerslabs.com/cryptolabyrinth/    | Activa | Creación de diccionarios, OpenSSL, John, SUDO (env)      | Linux   | No  |
+| Quokka | Principiante  | https://thehackerslabs.com/quokka/      | Activa   | SMB, revshell      | Windows  | No  |
+| Campana Feliz | Principiante   | https://thehackerslabs.com/campana-feliz/      | Activa   | Webmin, Revshell    | Linux   | No |
+| Bocata de Calamares | Principiante   | 	https://thehackerslabs.com/bocata-de-calamares/      | Activa | SQLi, Base64, Binario find     | Linux   | No  |
+| Casa Paco | Principiante   | https://thehackerslabs.com/casa-paco/     | Activa   | Revshell, SUID      | Linux   | No  |
+| Torrijas | Principiante   | https://thehackerslabs.com/torrijas/     | Activa   | Wordpress, SQL, SUDO (bpftrace)     | Linux   | No |
+| Facultad | Principiante   | https://thehackerslabs.com/facultad/     | Activa | Wordpress, Esteganografía, SUDO (php), Crontab      | Linux   | No  |
 | 34 | Elemento 34   | Extra     | Activo   | Alta      | Usuario D   | 2025-02-03  |
 | 35 | Elemento 35   | Extra     | Activo   | Media     | Usuario E   | 2025-02-04  |
 | 36 | Elemento 36   | Extra     | Inactivo | Baja      | Usuario A   | 2025-02-05  |
