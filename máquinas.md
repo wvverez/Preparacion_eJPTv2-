@@ -98,14 +98,14 @@
 |    Upload    |      Fácil      |    Activa    |    Revshell, Sudo (env)      |        Linux           |     No       |
 |    Verdejo    |     Fácil       |   Activa     |    SSTI, John, sudo (base64)      |      Linux             |      No      |
 |    WalkingCMS    |      Fácil      |    Activa    |     Wordpress, RCE, revshell, SUID     |        Linux           |    No        |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
+|    WhereIsMyWebShell    |      Fácil      |    Activa    |     RCE     |        Linux           |      No      |
+|    Whoiam    |     Fácil     |    Activa    |      Wordpress (plugin), Revshell, sudo (find, debugfs, bash)    |          Linux         |      No      |
+|     Winterfell   |     Fácil       |    Activa   |    SMB, crackmapexec, SUDO (python, bash)      |       Linux            |       No     |
+|    -Pn    |      Fácil      |    Activa    |    Apache, Tomcat, Revshell      |          Linux         |     No       |
+|     Psycho   |     Fácil       |   Activa     |    LFI, SSH (id_rsa), Sudo (perl, python)      |         Linux          |    No        |
+|    Mirame    |     Fácil       |   Activa     |     SQLInjection, Esteganografía, John, SUID (find)     |     Linux              |     No       |
+|    Backend    |     Fácil       |    Activa    |     SUID, SQLinjection     |      Linux             |      No      |
+|    Paradise    |     Fácil       |    Activa    |      SSH (hydra), sudo (sed), SUID    |       LINUX            |     No       |
 |        |            |        |          |                   |            |
 |        |            |        |          |                   |            |
 |        |            |        |          |                   |            |
