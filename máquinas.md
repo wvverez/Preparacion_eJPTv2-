@@ -113,5 +113,9 @@
 |  FindYourStyle      |    Facil        |   Activa     |    Metasploit (Drupal) , Revshell, SUDO (grep)      |        Linux           |     No       |
 |   Stellarjwt     |    Facil        |  Activa      |     Archivos ocultos, CyberChef, SUDO (socat)     |        Linux           |     No       |
 |   File     |    Facil        |   Activa     |   Revshell, esteganografia , SUDO       |      Linux             |      No      |
-|        |            |        |          |                   |            |
+|    Elevator    |   Facil          |  Activa      |    Revshell, escalada de privilegios con SUDO      |       Linux            |    No        |
+|   Extraviado     |    Facil         |   Activa      |   Base64 , directorio oculto        |       Linux           |     No       | 
+|   Patriaquerida     |    Facil        |   Activa      |     Path traversal, SUID      |        Linux         |      No      |
+|    Intership   |      Facil       |   Activa      |     SQLinjection,ROT13,Revshell, SUDO (vim)      |         Linux        |      No      |
+|   Walking dead     |    Facil        |   Activa      |    Revshell, SUID       |          Linux       |     No       |
 
