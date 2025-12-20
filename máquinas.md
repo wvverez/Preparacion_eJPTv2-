@@ -1,4 +1,4 @@
-# 💻 MÁQUINAS PARA PREPARARME
+# 💻 MÁQUINAS PARA PREPARACIÓN eJPTv2
 
 🧑🏻‍💻Máquinas totales: 110 ||  ✅ RESUELTAS: 1
 
