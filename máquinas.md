@@ -48,3 +48,75 @@
 | Torrijas | Principiante   | https://thehackerslabs.com/torrijas/     | Activa   | Wordpress, SQL, SUDO (bpftrace)     | Linux   | No |
 | Facultad | Principiante   | https://thehackerslabs.com/facultad/     | Activa | Wordpress, Esteganografía, SUDO (php), Crontab      | Linux   | No  |
 
+
+
+
+
+
+
+
+
+
+
+
+
+# Máquinas de Dockerlabs
+
+
+| NOMBRE | DIFICULTAD | ESTADO | TÉCNICAS |     SO            | Resuelta? |
+|--------|------------|--------|----------|-------------------|------------|
+|   Injection     |     Muy fácil       |     Activa   |     SQLi     |        Linux           |     No        |
+|   BorazuwarahCTF  |     Muy fácil       |    Activa    |    Esteganografía      |     Linux              |     No       |
+|    BreakMySSH    |     Muy fácil       |   Activa     |     SSH (Hydra)     |        Linux           |      No      |
+|   FirstHacking     |    Muy fácil        |   Activa     |     FTP (exploit)     |      Linux             |    No        |
+|    Obsession    |     Muy fácil       |    Activa    |    SSH (hydra), FTP      |        Linux         |      No      |
+|    Trust    |     Muy fácil       |    Activa    |     SSH (hydra)     |       Linux            |      No      |
+|    Vacaciones    |     Muy fácil       |   Activa     |    SSH (hydra)       |     Linux              |     No     |
+|    Tproot    |      Muy fácil      |    Activa    |    Exploit (ftp)      |       Linux            |     No       |
+|    HedgeHog    |     Muy fácil       |   Activa    |     SSH (hydra)     |        Linux           |      No      |
+|    AguaDeMayo    |    Fácil        |   Activa     |     Brainfuck. Sudo (bettercap)     |        Linux           |      No      |
+|    Amor    |      Fácil      |    Activa    |    Esteganografía, Sudo (ruby)      |       Linux            |      No      |
+|    AnonymousPingu    |      Fácil      |    Activa    |     Revshell, Sudo (man y chown)     |       Linux            |      No      |
+|   BuscaLove     |      Fácil      |   Activa     |     LFI, Sudo (ls, cat y env)     |        Linux           |      No      |
+|    ChocolateLovers    |     Fácil       |     Activa   |     Nibbleblog (exploit upload), revshell , sudo (php)     |        Linux           |      No      |
+|    ConsoleLog    |     Fácil       |   Activa     |     Token (js), SUID     |        Linux           |       No     |
+|    DockerLabs    |     Fácil       |   Activa     |     Revshell, Sudo (cut)     |          Linux         |      No      |
+|   Escolares     |     Fácil       |   Activa     |     Wordpress, Cupp, Revshell, Sudo (awk)     |          Linux         |      No      |
+|   HiddenCat     |     Fácil       |   Activa     |    Apache Tomcat, SUID      |       Linux            |      No     |
+|    Library    |      Fácil      |   Activa     |      Library path hijacking    |         Linux          |       No     |
+|    Pntopntobarra    |      Fácil      |   Activa     |     LFI, Sudo (env)     |     Linux              |       No     |
+|     Vulnvault   |      Fácil      |    Activa    |     PSPY, RCE     |        Linux           |       No    |
+|     Presenter   |      Fácil      |   Activa     |     Wordpress, Revshell, SQL     |       Linux            |      No      |
+|   Candy     |     Fácil       |    Activa    |      Joomla, Webshell, SQL    |         Linux          |      No      |
+|   JenHack     |     Fácil       |   Activa     |    Jenkins, Revshell      |        Linux           |     No       |
+|   Los 40 ladrones     |      Fácil      |    Activa    |    Port knocking, sudo (bash)      |         Linux          |    No        |
+|    Move    |     Fácil       |   Activa     |     Grafana, SUID     |          Linux         |      No      |
+|    NodeClimb    |     Fácil       |   Activa     |     FTP, John, Sudo (node)     |       Linux           |      No      |
+|     Picadilly   |      Fácil      |    Activa    |      Revshell, cifrado cesar    |       Linux            |     No       |
+|   SecretJenkins     |     Fácil       |    Activa    |    Jenkins (exploit), Sudo  (python)    |        Linux           |       No     |
+|    ShowTime    |     Fácil       |    Activa    |     SQLinjection, revshell, sudo (posh)     |           Linux        |       No     |
+|    Upload    |      Fácil      |    Activa    |    Revshell, Sudo (env)      |        Linux           |     No       |
+|    Verdejo    |     Fácil       |   Activa     |    SSTI, John, sudo (base64)      |      Linux             |      No      |
+|    WalkingCMS    |      Fácil      |    Activa    |     Wordpress, RCE, revshell, SUID     |        Linux           |    No        |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+|        |            |        |          |                   |            |
+
+
+
+
+
+
