@@ -105,18 +105,13 @@
 |     Psycho   |     Fácil       |   Activa     |    LFI, SSH (id_rsa), Sudo (perl, python)      |         Linux          |    No        |
 |    Mirame    |     Fácil       |   Activa     |     SQLInjection, Esteganografía, John, SUID (find)     |     Linux              |     No       |
 |    Backend    |     Fácil       |    Activa    |     SUID, SQLinjection     |      Linux             |      No      |
-|    Paradise    |     Fácil       |    Activa    |      SSH (hydra), sudo (sed), SUID    |       LINUX            |     No       |
+|    Paradise    |     Fácil       |    Activa    |      SSH (hydra), sudo (sed), SUID    |       Linux           |     No       |
+|   Balulero     |     Facil        |    Activa    |    PSPY, SUDO(php)      |         Linux          |  No          |
+|    Pequeñas mentirosas    |     Facil        |   Activa     |     Hydra, John the ripper, SUDO (python3)      |       Linux            |    No        |
+|   Vendetta     |     Facil       |   Activa     |   Hydra, MYSQL, SUDO (nano)       |      Linux             |     No       |
+|  Allien      |     Facil       |    Activa    |    Samba, RCE, SUDO (service)      |        Linux           |      No      |
+|  FindYourStyle      |    Facil        |   Activa     |    Metasploit (Drupal) , Revshell, SUDO (grep)      |        Linux           |     No       |
+|   Stellarjwt     |    Facil        |  Activa      |     Archivos ocultos, CyberChef, SUDO (socat)     |        Linux           |     No       |
+|   File     |    Facil        |   Activa     |   Revshell, esteganografia , SUDO       |      Linux             |      No      |
 |        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-|        |            |        |          |                   |            |
-
-
-
-
-
 
