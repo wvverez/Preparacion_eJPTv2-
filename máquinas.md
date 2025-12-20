@@ -6,7 +6,7 @@
 
 🐳CTFs DOCKERLABS: 53
 
-✅RESUELTAS: 0
+🧑🏻‍💻Máquinas totales: ✅RESUELTAS: 0
 
 ## 🥷🏿Máquinas de The Hacker Labs
 
