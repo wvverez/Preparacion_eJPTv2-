@@ -1,4 +1,4 @@
-# 💻 MÁQUINAS TOTALES 
+# 💻 MÁQUINAS PARA PREPARARME
 
 🧑🏻‍💻Máquinas totales: 110 ||  ✅ RESUELTAS: 0
 
