@@ -1,6 +1,6 @@
 # 💻 MÁQUINAS PARA PREPARACIÓN eJPTv2
 
-🧑🏻‍💻Máquinas totales: 134 ||  ✅ RESUELTAS: 1
+🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 1
 
 # Máquinas de The Hacker Labs
 
