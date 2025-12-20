@@ -48,13 +48,31 @@
 | Torrijas | Principiante   | https://thehackerslabs.com/torrijas/     | Activa   | Wordpress, SQL, SUDO (bpftrace)     | Linux   | No |
 | Facultad | Principiante   | https://thehackerslabs.com/facultad/     | Activa | Wordpress, Esteganografía, SUDO (php), Crontab      | Linux   | No  |
 
+# Máquinas de TryHackMe
 
 
-
-
-
-
-
+| NOMBRE | DIFICULTAD | ENLACE | Estado | TÉCNICAS | SO | Resuelta? |
+|--------|------------|--------|--------|----------|----|-----------|
+| Blue | Fácil        | https://tryhackme.com/r/room/blue | Activa | EternalBlue, Johntheripper | Windows | No |
+| Ice | Fácil | https://tryhackme.com/r/room/ice | Activa | Icecast (exploit), Meterpreter | Windows | No |
+| Blaster | Fácil | https://tryhackme.com/r/room/blaster | Activa | Windows Hacking | Windows | No |
+| Root Me | Fácil | https://tryhackme.com/r/room/rrootme | Activa | Webshell, SUID | Linux | No |
+| Ignite | Fácil | https://tryhackme.com/r/room/ignite | Activa | Fuel CMS, Revshell | Linux | No |
+| Blog | Media | https://tryhackme.com/r/room/blog | Activa | Wordpress (exploit) | Linux | No |
+| Chill Hack | Fácil | https://tryhackme.com/r/room/chillhack | Activa | Revshell, SSH | Linux | No |
+| Startup | Fácil | https://tryhackme.com/r/room/startup | Activa | FTP, Revshell, crontab | Linux | No |
+| Picke Rick | Fácil | https://tryhackme.com/r/room/picklerick | Activa | Base64, Revshell | Linux | No |
+| Bolt | Fácil | https://tryhackme.com/r/room/bolt | Activa | Bolt CMS (exploit) | Linux | No |
+| ColddBox: Easy | Fácil | https://tryhackme.com/r/room/colddboxeasy | Activa | Wordpress, Revshell, Sudo (ftp) | Linux | No |
+| Mr Robot CTF | Media | https://tryhackme.com/r/room/mrrobot | Activa | Wordpress, Revshell, SUID | Linux | No |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 
 
