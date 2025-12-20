@@ -1,4 +1,4 @@
-# 🎯Preparacion_eJPTv2-
+# 🎯
 
 La certificación eJPTv2 es una certificación muy conocida en el mundo de la ciberseguridad, es una credencial de nivel inicial/intermedio en pruebas de pentesting
 
