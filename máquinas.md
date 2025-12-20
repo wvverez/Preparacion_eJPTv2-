@@ -65,15 +65,37 @@
 | Bolt | Fácil | https://tryhackme.com/r/room/bolt | Activa | Bolt CMS (exploit) | Linux | No |
 | ColddBox: Easy | Fácil | https://tryhackme.com/r/room/colddboxeasy | Activa | Wordpress, Revshell, Sudo (ftp) | Linux | No |
 | Mr Robot CTF | Media | https://tryhackme.com/r/room/mrrobot | Activa | Wordpress, Revshell, SUID | Linux | No |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| Basic Pentesting | Fácil | https://tryhackme.com/r/room/basicpentestingjt | Activa | SMB, John the ripper, SSH (id_rsa) | Linux | No |
+| Vulnversity | Fácil | https://tryhackme.com/r/room/vulnversity | Activa | Burpsuite, RevShell, GTFObins | Linux | No |
+| TakeOver | Fácil | https://tryhackme.com/r/room/takeover | Activa | Enumeración |  Linux| No |
+| Chocolate Factory | Fácil | https://tryhackme.com/r/room/chocolatefactory | Activa | FTP, Esteganografía, Revshell, SSH (id_rsa) | Linux | No |
+| Easy Peasy | Fácil | https://tryhackme.com/r/room/easypeasyctf | Activa | Nmap, Gobuster, Cronjob | Linux | No |
+| Corridor | Fácil | https://tryhackme.com/r/room/corridor | Activa | Hash | Linux | No |
 
+# Máquinas de Vulnhub
+
+| NOMBRE | DIFICULTAD | ENLACE | Estado | TÉCNICAS | SO | Resuelta? |
+|--------|------------|--------|--------|----------|----|-----------|
+| Darkhole:1 | Fácil | https://www.vulnhub.com/entry/darkhole-1,724/ | Activa | Burpsuite, Revshell, SUID | Linux | No |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |
 
 
 
