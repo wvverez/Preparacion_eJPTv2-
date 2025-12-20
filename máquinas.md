@@ -1,6 +1,12 @@
-# MÁQUINAS
+# MÁQUINAS TOTALES 
 
-## Máquinas de The Hacker Labs
+🥷🏿THEHACKERLABS: 39 
+🕵️‍♂️TRYHACKME
+🐳DOCKERLABS:
+
+✅RESUELTAS: 0
+
+## 🥷🏿Máquinas de The Hacker Labs
 
 
 | NOMBRE | DIFICULTAD | ENLACE  | Estado   | TÉCNICAS   | SO          | Resuelta?     |
