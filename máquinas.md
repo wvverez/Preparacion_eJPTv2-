@@ -2,11 +2,11 @@
 
 🥷🏿CTFs THEHACKERLABS: 39 
 
-🕵️‍♂️CTFs TRYHACKME:
+🕵️‍♂️CTFs TRYHACKME: 18
 
 🐳CTFs DOCKERLABS: 53
 
-🧑🏻‍💻Máquinas totales: ✅RESUELTAS: 0
+🧑🏻‍💻Máquinas totales: 110 ||  ✅ RESUELTAS: 0
 
 ## 🥷🏿Máquinas de The Hacker Labs
 
