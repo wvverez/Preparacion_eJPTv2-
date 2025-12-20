@@ -1,6 +1,6 @@
 # 💻 MÁQUINAS PARA PREPARACIÓN eJPTv2
 
-🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 1
+🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 2
 
 # Máquinas de The Hacker Labs
 
@@ -12,7 +12,7 @@
 | Café | Experto   | https://thehackerslabs.com/cafe/     | Activa | NoSQL, SMB , binario uuencode, Wireshark     | Linux   | ✅|
 | PinguPing | Avanzado   |  https://thehackerslabs.com/pinguping/    | Activa   | Werkzeug, MongoDB, Binario sed     | Linux  | No  |
 | Tortuga | Principiante   |   https://thehackerslabs.com/Tortuga/   | Activa   | Pathtraversal, Hydra , capabilities     | Linux   | No  |
-| Operación Pescador  | Avanzado    | https://thehackerslabs.com/operacionpescador/    | Activa | Fuzzing, revshell , SUID      | Linux   | No  |
+| Operación Pescador  | Avanzado    | https://thehackerslabs.com/operacionpescador/    | Activa | Fuzzing, revshell , SUID      | Linux   | ✅  |
 | Watchstore | Principiante   |   https://thehackerslabs.com/watchstore/   | Activa   | Fuzzing, Werkzeug, Binario neofetch, Revshell      | Linux   | No  |
 | Fruits | Principiante   | https://thehackerslabs.com/fruits/  | Activa   | LFI, Fuerza bruta    | Linux   | No  |
 | Microchoft  | Principiante   | https://thehackerslabs.com/microchoft/   | Activa   | EternalBlue     | Windows  | No  |
