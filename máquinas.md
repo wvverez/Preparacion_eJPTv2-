@@ -1,4 +1,4 @@
-# MÁQUINAS TOTALES 
+# 💻MÁQUINAS TOTALES 
 
 🥷🏿CTFs THEHACKERLABS: 39 
 
@@ -8,7 +8,7 @@
 
 🧑🏻‍💻Máquinas totales: 110 ||  ✅ RESUELTAS: 0
 
-## 🥷🏿Máquinas de The Hacker Labs
+# 🥷🏿Máquinas de The Hacker Labs
 
 
 | NOMBRE | DIFICULTAD | ENLACE  | Estado   | TÉCNICAS   | SO          | Resuelta?     |
