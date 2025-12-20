@@ -77,27 +77,34 @@
 | NOMBRE | DIFICULTAD | ENLACE | Estado | TÉCNICAS | SO | Resuelta? |
 |--------|------------|--------|--------|----------|----|-----------|
 | Darkhole:1 | Fácil | https://www.vulnhub.com/entry/darkhole-1,724/ | Activa | Burpsuite, Revshell, SUID | Linux | No |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |
+| Election:1 | Media | https://www.vulnhub.com/entry/election-1,503/ | Activa | Searchsploit, SUID, Burpsuite | Linux | No |
+| Symphono:1 | Fácil | https://www.vulnhub.com/entry/symfonos-1,322/ | Activa | Samba, Wordpress (LFI), SUID | Linux | No |
+| Darkhole:2 | Difícil | https://www.vulnhub.com/entry/darkhole-2,740/ | Activa | SQLInjection, Webshell | Linux | No |
+| Hack Me Please:1 | Fácil | https://www.vulnhub.com/entry/hack-me-please-1,731/ | Activa | SeedDMS (exploit), RCE, MySQL, Hash, Revshell | Linux | No |
+| Insanity:1 | Fácil | https://www.vulnhub.com/entry/insanity-1,536/ | Activa | SQL Injection, Dumping Firefox | Linux | No |
 
 
+# Máquinas de Vulnyx
+
+| NOMBRE | DIFICULTAD | Estado | TÉCNICAS | SO | Resuelta? |
+|--------|------------|--------|----------|----|-----------|
+| Fuser | Muy Fácil | Activa | CUPS (CVE-2024-47176), Dash (SUID) | Linux | No |
+| Bloguer | Muy Fácil | Activa | Wordpress | Linux | No |
+| Lower | Muy Fácil | Activa | Subdomains Enumeration , CEWL , SSH (Fuerza bruta) , Escalada de privilegios /etc/group | Linux | No |
+| Exec | Muy Fácil | Activa | SMB Enumeration, RCE | Linux | No |
+| Diff3r3ntS3c | Muy Fácil | Activa | File Upload, Crontab | Linux | No |
+| HackingStation | Muy Fácil | Activa | Command Injection, Nmap  | Linux | No |
+| Eternal | Muy Fácil | Activa | Eternalblue | Windows | No |
+| Experience | Muy Fácil | Activa | SMB Enumeration, MS08-067 (CVE-2008-4250) | Windows | No |
+| Agent | Muy fácil | Activa | Bypass User agent, RCE CVE-2021-32305 | Linux | No |
+| Infected | Muy fácil | Activa | Backdoor mod Apache2, Escalada de privilegios (Joe) | Linux | No |
+| Mux | Muy Fácil | Activa | RSH, Escalada de privilegios (Tmux) | Linux | No |
+| First  | Muy Fácil | Activa | Raspberry (Default Password) Bypass restricted bash , Cron (Path hijacking) | Linux | No |
+| Basic | Muy Fácil | Activa | CUPS, SSH brute force, env SUID | Linux | No |
+| Robot | Muy Fácil | Activa | Stego, MongoDB, Cupp, Fuerza bruta (SSH), Escalada de privilegios (Zzuf) | Linux | No |
+| Admin | Fácil | Activa | WinPEAS, Evil-WinRM, SMB | Windows | No |
+| War | Fácil | Activa | Enumeración SMB, Tomcat, PrintSpoofer | Windows | No |
+| Hosting | Fácil | Activa | SMB, Evil-WinRM | Windows | No |
 
 
 # Máquinas de Dockerlabs
