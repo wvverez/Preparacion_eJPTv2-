@@ -1,4 +1,4 @@
-# Pivoting & PortForwarding con Chisel y Metasploit
+# Pivoting con Chisel & Metasploit
 
 #### Chisel
 
@@ -23,7 +23,7 @@ run autoroute -s (IP)/20
   </code>
 </pre>
 
-# PortForwarding
+# PortForwarding cin Chisel & Metasploit
 
 #### Chisel
 
