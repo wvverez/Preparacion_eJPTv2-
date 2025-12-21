@@ -26,5 +26,8 @@ find / -not -type l -perm o+w
 </pre>
 
 #### CAPABILITIES
-
+<pre>
+  <code>
 getcap -r / 2>/dev/null
+  </code>
+</pre>
