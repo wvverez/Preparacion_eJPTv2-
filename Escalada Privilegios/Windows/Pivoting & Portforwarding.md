@@ -14,3 +14,11 @@
 
   </code>
 </pre>
+
+## Metasploit
+
+<pre>
+  <code>
+run autoroute -s (IP)/20
+  </code>
+</pre>
