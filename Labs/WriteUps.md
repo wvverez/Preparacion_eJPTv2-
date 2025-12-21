@@ -1,5 +1,6 @@
 # WRITEUPS LABS
 
+🧑🏻‍💻Máquinas totales: 134 || ✅WRITEUPS: 1
 
 | WRITEUP | VÍDEO | ESCRITO  | PLATAFORMA    | DIFICULTAD    |
 |----|---------------|-----------|----------|-----------|
