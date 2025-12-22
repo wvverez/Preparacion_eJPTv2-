@@ -1,13 +1,13 @@
-# Privileges
+# 🔑Privileges
 
-#### Permisos débiles:
+#### 😣Permisos débiles:
 <pre>
   <code>
 find / -not -type l -perm o+w
   </code>
   </pre>
   
-#### SUID 
+#### 🕵️‍♂️SUID 
 
 * [gtfobins](https://gtfobins.github.io/)
 
@@ -17,7 +17,7 @@ find / -not -type l -perm o+w
   </code>
 </pre>
 
-#### SUDO
+#### 🗝️SUDO
 
 <pre>
   <code>
@@ -25,7 +25,7 @@ find / -not -type l -perm o+w
   </code>
 </pre>
 
-#### CAPABILITIES
+#### ⚔️CAPABILITIES
 <pre>
   <code>
 getcap -r / 2>/dev/null
