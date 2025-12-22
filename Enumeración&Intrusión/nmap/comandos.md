@@ -1,6 +1,7 @@
 # Enumeración puertos abiertos
 
-![Texto alternativo](images/image.jpeg)
+![Nmap](Enumeracion&Intrusion/images/image.jpg)
+
 
 Escaneo usado:
 <pre> 
