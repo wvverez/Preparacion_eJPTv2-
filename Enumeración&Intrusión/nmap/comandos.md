@@ -1,6 +1,7 @@
 # Enumeración puertos abiertos
 
-<img src="../images/image.jpg" alt="Nmap" width="500">
+![ ](https://raw.githubusercontent.com/wvverez/Preparacion_eJPTv2-/main/images/image.jpg)
+
 
 Escaneo usado:
 <pre> 
