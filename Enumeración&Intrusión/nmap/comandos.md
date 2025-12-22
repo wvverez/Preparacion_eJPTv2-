@@ -1,5 +1,8 @@
 # Enumeración puertos abiertos
 
+<img src="images/image.jpg" width="400" height="250">
+
+
 Escaneo usado:
 <pre> 
   <code> 
