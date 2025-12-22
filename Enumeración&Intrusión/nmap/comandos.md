@@ -1,7 +1,6 @@
 # Enumeración puertos abiertos
 
-<img src="images/image.jpg" width="400" height="250">
-
+![Texto alternativo](images/image.jpeg)
 
 Escaneo usado:
 <pre> 
