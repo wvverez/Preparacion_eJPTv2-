@@ -9,3 +9,4 @@
 | Bocata de calamares |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/BocatadeCalamares.md | The Hacker Labs| Principiante  |               | Grillo |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Grillo.md | TheHackerLabs | Principiante |
 | Tortuga |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/tortuga.md | TheHackerLabs | Principiante |
 | PinguPing |          | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Pinguping.md | TheHackerLabs | Avanzado | 
+| Fruits |  https://www.youtube.com/watch?v=gs0p5hcTs44 | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/fruits.md | TheHackerLabs | Principiante | 
