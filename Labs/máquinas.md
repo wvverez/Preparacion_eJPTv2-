@@ -1,6 +1,6 @@
 # 💻 MÁQUINAS PARA PREPARACIÓN eJPTv2
 
-🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 4
+🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 5
 
 # Máquinas de The Hacker Labs
 
@@ -112,7 +112,7 @@
 
 | NOMBRE | DIFICULTAD | ESTADO | TÉCNICAS |     SO            | Resuelta? |
 |--------|------------|--------|----------|-------------------|------------|
-|   Injection     |     Muy fácil       |     Activa   |     SQLi     |        Linux           |     No        |
+|   Injection     |     Muy fácil       |     Activa   |     SQLi     |        Linux           |     ✅       |
 |   BorazuwarahCTF  |     Muy fácil       |    Activa    |    Esteganografía      |     Linux              |     No       |
 |    BreakMySSH    |     Muy fácil       |   Activa     |     SSH (Hydra)     |        Linux           |      No      |
 |   FirstHacking     |    Muy fácil        |   Activa     |     FTP (exploit)     |      Linux             |    No        |
