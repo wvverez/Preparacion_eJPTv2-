@@ -4,7 +4,7 @@
 
 | WRITEUP | VÍDEO | ESCRITO  | PLATAFORMA    | DIFICULTAD    |
 |----|---------------|-----------|----------|-----------|
-| OperaciónPescador | https://www.youtube.com/watch?v=oeeXwdBtM1I    |    | TheHackerLabs  | Avanzado      |
+| OperaciónPescador | https://www.youtube.com/watch?v=oeeXwdBtM1I    |  https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/operacionpescador.md  | TheHackerLabs  | Avanzado      |
 |  Aceituno                  |     |  https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Aceituno.md  | The Hacker Labs | Avanzado  |
 | Bocata de calamares |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/BocatadeCalamares.md | The Hacker Labs| Principiante  |               | Grillo |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Grillo.md | TheHackerLabs | Principiante |
 | Tortuga |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/tortuga.md | TheHackerLabs | Principiante |
