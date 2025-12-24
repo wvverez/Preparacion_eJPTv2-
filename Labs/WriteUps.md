@@ -1,6 +1,6 @@
 # WRITEUPS LABS
 
-🧑🏻‍💻Máquinas totales: 134 || ✅WRITEUPS: 9
+🧑🏻‍💻Máquinas totales: 134 || ✅WRITEUPS: 10
 
 | WRITEUP | VÍDEO | ESCRITO  | PLATAFORMA    | DIFICULTAD    |
 |----|---------------|-----------|----------|-----------|
@@ -10,4 +10,4 @@
 | Tortuga |           | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/tortuga.md | TheHackerLabs | Principiante |
 | PinguPing |   https://www.youtube.com/watch?v=z3ovnVd1sFY       | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Pinguping.md | TheHackerLabs | Avanzado | 
 | Fruits |  https://www.youtube.com/watch?v=gs0p5hcTs44 | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/fruits.md | TheHackerLabs | Principiante | 
-| Injection | https://www.youtube.com/watch?v=TmZwwp_tArM |                                                                    | DockerLabs | Muy Fácil
+| Injection | https://www.youtube.com/watch?v=TmZwwp_tArM |                     https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Injection.md                                               | DockerLabs | Muy Fácil
