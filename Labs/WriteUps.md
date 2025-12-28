@@ -1,6 +1,6 @@
 # WRITEUPS LABS
 
-🧑🏻‍💻Máquinas totales: 134 || ✅WRITEUPS: 11
+🧑🏻‍💻Máquinas totales: 134 || ✅WRITEUPS: 13
 
 | WRITEUP | VÍDEO | ESCRITO  | PLATAFORMA    | DIFICULTAD    |
 |----|---------------|-----------|----------|-----------|
@@ -12,3 +12,4 @@
 | Fruits |  https://www.youtube.com/watch?v=gs0p5hcTs44 | https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/fruits.md | TheHackerLabs | Principiante | 
 | Injection | https://www.youtube.com/watch?v=TmZwwp_tArM |                     https://github.com/wvverez/Write-Ups-TheHackerLabs/blob/main/Injection.md                                               | DockerLabs | Muy Fácil
 | Vacaciones | https://www.youtube.com/watch?v=NRo1NOYGPkc |                                                                                | DockerLabs | Muy fácil
+| Trust | https://www.youtube.com/watch?v=tqLycBrj4MM |                                   | DockerLabs | Muy fácil 
