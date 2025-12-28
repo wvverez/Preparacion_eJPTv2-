@@ -1,6 +1,6 @@
 # 💻 MÁQUINAS PARA PREPARACIÓN eJPTv2
 
-🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 5
+🧑🏻‍💻Máquinas totales: 134   ||  ✅RESUELTAS: 7
 
 # Máquinas de The Hacker Labs
 
@@ -117,8 +117,8 @@
 |    BreakMySSH    |     Muy fácil       |   Activa     |     SSH (Hydra)     |        Linux           |      No      |
 |   FirstHacking     |    Muy fácil        |   Activa     |     FTP (exploit)     |      Linux             |    No        |
 |    Obsession    |     Muy fácil       |    Activa    |    SSH (hydra), FTP      |        Linux         |      No      |
-|    Trust    |     Muy fácil       |    Activa    |     SSH (hydra)     |       Linux            |      No      |
-|    Vacaciones    |     Muy fácil       |   Activa     |    SSH (hydra)       |     Linux              |     No     |
+|    Trust    |     Muy fácil       |    Activa    |     SSH (hydra)     |       Linux            |      ✅      |
+|    Vacaciones    |     Muy fácil       |   Activa     |    SSH (hydra)       |     Linux              |     ✅     |
 |    Tproot    |      Muy fácil      |    Activa    |    Exploit (ftp)      |       Linux            |     No       |
 |    HedgeHog    |     Muy fácil       |   Activa    |     SSH (hydra)     |        Linux           |      No      |
 |    AguaDeMayo    |    Fácil        |   Activa     |     Brainfuck. Sudo (bettercap)     |        Linux           |      No      |
